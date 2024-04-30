@@ -31,7 +31,7 @@ This Python script uses OpenCV and the cvzone library to detect hands in a live 
 
 ## Controls
 
-- Press `q` to quit the program.
+- Press `Q` or `Ctrl+C` in terminal to quit the program.
 
 ## Customization
 
